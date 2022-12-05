@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rendermg
-- 👀 I’m interested in all types of software development, particularisly CAD automation, and infrastructure automation. 
+- 👀 I’m interested in all types of software development, particularly electrical/mechanical CAD automation, and infrastructure automation. 
 - 🌱 I’m currently learning GitHub actions and events. 
 - 💞️ I’m looking to collaborate on best practices on CI/CD/Release management for GitHub
 
